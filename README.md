@@ -1,7 +1,7 @@
 # TEMA 2
 ## ___Creacion de página web___
 
-Para la realizacion de la pagina web hemos tenido que tratar las imagenes para que pesara menos y redimensionarla. Para ello primero hemos redimensionado la imagen de una forma sencilla con paint como se muestra en la [ilustracion](https://ibb.co/n98a36)
+Para la realizacion de la pagina web hemos tenido que tratar las imagenes para que pesara menos y redimensionarla. Para ello primero hemos redimensionado la imagen de una forma sencilla con paint como se muestra en la [ilustracion](https://ibb.co/n98a36) simplemente tenemos que poner a qué porcentaje queremos redimensionar, en este caso lo he puesto al 50%
 
 Acto seguido hemos comprimido la imagen en [tinypng.com](https://tinypng.com/). Podemos ver el proceso en la siguiente ![ilustracion](https://ibb.co/bYFKwR).
 
